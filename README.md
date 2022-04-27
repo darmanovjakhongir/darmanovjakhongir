@@ -8,7 +8,7 @@ I'm Jakhongir.I do content on Design and Development.
 ## Skills and Experience
 * PHP
 * JS
-* HTML
 * CSS
+* HTML
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darmanovjakhongir)  
