@@ -8,7 +8,4 @@ I'm Jakhongir from Uzbekistan, and I do content on Design and Development.
 
 Skills: PHP / JS / HTML / CSS
 
-- 🔭 I’m currently working on My ow company 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darmanovjakhongir)  
