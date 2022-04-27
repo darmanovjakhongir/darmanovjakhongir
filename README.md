@@ -11,4 +11,7 @@ I'm Jakhongir.I do content on Design and Development.
 * CSS
 * HTML
 
+## Examples of Work
+<img scr="" widht="256" />
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darmanovjakhongir)  
