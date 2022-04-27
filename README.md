@@ -1,6 +1,6 @@
 ### Hi there 👋, JAKHONGIR DARMANOV
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/)
+![Design and Development](https://github.com/darmanovjakhongir/darmanovjakhongir/blob/main/jakhongir.jpg)
 
 I'm Jakhongir.I do content on Design and Development.
 
