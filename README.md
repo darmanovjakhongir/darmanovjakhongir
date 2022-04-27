@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/)
 
-I'm Jakhongir from Uzbekistan, and I do content on Design and Development.
+I'm Jakhongir.I do content on Design and Development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darmanovjakhongir)](https://github.com/anuraghazra/github-readme-stats)
 
