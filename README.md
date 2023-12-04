@@ -1,1 +1,1 @@
-# Hi there, I'm [JAKHONGIR DARMANOV] 
+# Hi there, I'm JAKHONGIR DARMANOV 
