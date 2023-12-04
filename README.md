@@ -1,17 +1,49 @@
-![Design and Development](https://github.com/darmanovjakhongir/darmanovjakhongir/blob/main/jakhongir.jpg)
-
-# JAKHONGIR DARMANOV
-I'm Jakhongir.I do content on Design and Development.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darmanovjakhongir)](https://github.com/anuraghazra/github-readme-stats)
-
-## Skills and Experience
-* PHP
-* JS
-* CSS
-* HTML
-
-## Examples of Work
-<img scr="" widht="256" />
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darmanovjakhongir)  
+<!DOCTYPE html>
+<html>
+<head>
+ <title>My GitHub Profile</title>
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+    img {
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+    }
+    h1 {
+      font-size: 48px;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+ </style>
+</head>
+<body>
+ <div class="container">
+    <img src="https://via.placeholder.com/200" alt="Profile Picture">
+    <h1>JAKHONGIR DARMANOV</h1>
+    <h2></h2>
+    <ul>
+      <li><a href="https://github.com/darmanovjakhongir">GitHub</a></li>
+      <li><a href="https://linkedin.com/in/darmanovjakhongir">LinkedIn</a></li>
+      <li><a href="mailto:darmanovjakhongir2@gmail.com">Email</a></li>
+    </ul>
+ </div>
+</body>
+</html>
